@@ -21,7 +21,7 @@
     },
     "globalName": "auth",
     "pluginVersion": "0.6.13",
-    "publicPath": "noop:///"
+    "publicPath": "https://thanhthai198.github.io/my_cdn/ios/auth/"
   },
   "shared": [
     {
@@ -56,8 +56,8 @@
         }
       },
       "usedIn": [
-        "./AccountScreen",
-        "./SignInScreen"
+        "./SignInScreen",
+        "./AccountScreen"
       ]
     },
     {
