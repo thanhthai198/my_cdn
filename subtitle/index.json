@@ -2,10 +2,7 @@
   "1_INTRO_VIDEO": {
     "key": "1_INTRO_VIDEO",
     "url": "https://vz-88b9f9c3-e13.b-cdn.net/dc9106b5-c945-4f13-98c0-4595dc7c7236/playlist.m3u8",
-    "subtitle": {
-      "es": "https://thanhthai198.github.io/my_cdn/subtitle/intro/es.vtt",
-      "en": "https://thanhthai198.github.io/my_cdn/subtitle/intro/en.vtt"
-    }
+    "subtitle": {}
   },
   "2_INTERVIEW_VIDEO": {
     "key": "2_INTERVIEW_VIDEO",
