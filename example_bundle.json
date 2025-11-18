@@ -1,7 +1,8 @@
 {
-  "version": "1.0.0",
-  "timestamp": 0,
-  "remotes": {
-    "auth": "auth@https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/${platform}/b2/auth.container.js.bundle"
-  }
+  "auth": {
+    "ios": "https://cdn.example.com/ios/v2.1/auth.container.js.bundle",
+    "android": "https://cdn.example.com/android/v2.1/auth.container.js.bundle"
+  },
+  "version": "2.1.0",
+  "updated_at": "2025-11-18T10:00:00Z"
 }
