@@ -1,6 +1,6 @@
 {
   "remotes": {
-    "auth": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/android/b1/auth.container.js.bundle",
+    "auth": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/${platform}/b1/auth.container.js.bundle",
   },
   "version": "1.0.0"
 }
