@@ -7,7 +7,7 @@
     },
     "subtitle": {
       "en": "https://thanhthai198.github.io/my_cdn/subtitle/intro/en.vtt",
-      "es": "https://thanhthai198.github.io/my_cdn/subtitle/intro/es.vtt"
+      "es": ""
     }
   },
   "2_INTERVIEW_VIDEO": {
@@ -18,7 +18,7 @@
     },
     "subtitle": {
       "en": "https://thanhthai198.github.io/my_cdn/subtitle/interview/en.vtt",
-      "es": "https://thanhthai198.github.io/my_cdn/subtitle/interview/es.vtt"
+      "es": ""
     }
   },
   "3_ONBOARDING_VIDEO": {
@@ -29,7 +29,7 @@
     },
     "subtitle": {
       "en": "https://thanhthai198.github.io/my_cdn/subtitle/onboarding_three/en.vtt",
-      "es": "https://thanhthai198.github.io/my_cdn/subtitle/onboarding_three/es.vtt"
+      "es": ""
     }
   }
 }
