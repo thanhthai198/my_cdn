@@ -8,7 +8,7 @@
       "version": "1.0.1"
     },
     "content": {
-      "ios": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/content/ios/content.container.js.bundle",
+      "ios": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/content/b1/ios/auth.container.js.bundle",
       "android": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/content/android/content.container.js.bundle",
       "version": "1.0.0"
     }
