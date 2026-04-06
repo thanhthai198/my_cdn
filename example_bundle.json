@@ -3,14 +3,14 @@
   "timestamp": "2024-01-27T10:00:00Z",
   "remotes": {
     "auth": {
-      "ios": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/auth/b4/ios/auth.container.js.bundle",
-      "android": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/auth/b4/android/auth.container.js.bundle",
-      "version": "1.0.3"
+      "ios": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/auth/b5/ios/auth.container.js.bundle",
+      "android": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/auth/b5/android/auth.container.js.bundle",
+      "version": "1.0.4"
     },
     "content": {
-      "ios": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/content/b2/ios/content.container.js.bundle",
-      "android": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/content/b2/android/content.container.js.bundle",
-      "version": "1.0.2"
+      "ios": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/content/b3/ios/content.container.js.bundle",
+      "android": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/content/b3/android/content.container.js.bundle",
+      "version": "1.0.3"
     }
   }
 }
