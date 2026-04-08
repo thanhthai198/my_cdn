@@ -8,9 +8,9 @@
       "version": "1.0.6"
     },
     "content": {
-      "ios": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/content/b5/ios/content.container.js.bundle",
-      "android": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/content/b5/android/content.container.js.bundle",
-      "version": "1.0.5"
+      "ios": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/content/b6/ios/content.container.js.bundle",
+      "android": "https://prediction3ddotcom.github.io/TradeWize.Public/bundle_tradewize/content/b6/android/content.container.js.bundle",
+      "version": "1.0.6"
     }
   }
 }
